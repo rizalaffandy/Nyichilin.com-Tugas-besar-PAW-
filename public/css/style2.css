@@ -1,0 +1,23 @@
+.gambar{
+	
+	width: 200pt;
+	height: 128pt;
+	margin: 16pt;
+}
+.enter{
+	width: 200pt;
+	height: 170pt;
+	margin: 20pt;
+}
+#cicil{
+	margin-left: 80%;
+}
+.asus{
+	margin-left:120px; 
+}
+body{
+	background-color: white;
+}
+.Mulai{
+	color: white;
+}
